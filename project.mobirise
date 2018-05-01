@@ -47,7 +47,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Here!",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -309,14 +309,6 @@
           "_anchor": "form3-o"
         }
       ]
-    },
-    "page1.html": {
-      "settings": {
-        "meta_descr": "Web Maker Description",
-        "title": "Page 1",
-        "order": 1
-      },
-      "components": []
     }
   }
 }
